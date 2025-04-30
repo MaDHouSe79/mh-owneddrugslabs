@@ -329,6 +329,7 @@ local function GiveAnimation()
     local player = PlayerPedId()
     LoadAnimDict('amb@prop_human_bum_bin@idle_b')
     if not IsPedInAnyVehicle(player, false) and (DoesEntityExist(player) and not IsEntityDead(player)) and hasBox then
+        hasBox = false
         disableControll = true
         TaskPlayAnim(player, 'amb@prop_human_bum_bin@idle_b', 'idle_d', 4.0, 4.0, -1, 50, 0, false, false, false)
         DetachEntity(boxEntity, 1, 1)
@@ -337,7 +338,6 @@ local function GiveAnimation()
         Wait(1500)
         TaskPlayAnim(player, "amb@prop_human_bum_bin@idle_b", "exit", 8.0, 8.0, -1, 50, 0, 0, 0, 0)
         ClearPedSecondaryTask(PlayerPedId())
-        hasBox = false
         Wait(500)
         disableControll = false
     end
