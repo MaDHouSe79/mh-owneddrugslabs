@@ -50,6 +50,7 @@
 
 # Dealers locations on the map
 - There are dealers on some locations where players can buy drug.
+- Make sure your lab owner stash has items, or the menu is empty.
 
 # Npc Thiefs
 - On some locations you can be robbed by npc's, but when you kill them you can get your stuff back.
@@ -77,7 +78,7 @@
 - [PolyZone](https://github.com/mkafrin/PolyZone/releases)
 - [ox_lib](https://github.com/overextended/ox_lib/releases)
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
+- [qb-inventory](https://github.com/qbcore-framework/qb-inventory) 2.0.0
 - [qb-doorlock](https://github.com/qbcore-framework/qb-doorlock)
 - [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu)
 - [qb-target](https://github.com/qbcore-framework/qb-target) or [ox_target](https://github.com/overextended/ox_target/releases)
