@@ -77,6 +77,7 @@
 - [PolyZone](https://github.com/mkafrin/PolyZone/releases)
 - [ox_lib](https://github.com/overextended/ox_lib/releases)
 - [qb-core](https://github.com/qbcore-framework/qb-core)
+- [qb-inventory](https://github.com/qbcore-framework/qb-inventory)
 - [qb-doorlock](https://github.com/qbcore-framework/qb-doorlock)
 - [qb-radialmenu](https://github.com/qbcore-framework/qb-radialmenu)
 - [qb-target](https://github.com/qbcore-framework/qb-target) or [ox_target](https://github.com/overextended/ox_target/releases)
