@@ -4,6 +4,6 @@
     <h3 align="center">A passionate allround developer </h3>    
 </p>
 
-# MH Cash As Item
+# MH Owned Drugs Labs
 - Download: https://github.com/MH-Scripts
 - Youtube: https://www.youtube.com/@MaDHouSe79
